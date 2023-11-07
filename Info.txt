@@ -1,0 +1,5 @@
+Student_id : 2313110039
+Student Name: Prachaya Kromthaiosng
+Major: IT
+Level: 1
+Faculty:Information Technology
